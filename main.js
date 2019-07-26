@@ -8,7 +8,7 @@ const { TextEncoder, TextDecoder } = require('util');
 
 const fetch = require('node-fetch');
 
-//121
+//121//
 const EOS_HTTP_ENDPOINT = 'http://';
 
 let privateKeys = [];// user private keys
